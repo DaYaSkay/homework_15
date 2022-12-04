@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\homework_15\bin\Debug\net6.0\homework_15.exe
+C:\Users\pc\Documents\GitHub\homework_15\bin\Debug\net6.0\homework_15.deps.json
+C:\Users\pc\Documents\GitHub\homework_15\bin\Debug\net6.0\homework_15.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\homework_15\bin\Debug\net6.0\homework_15.dll
+C:\Users\pc\Documents\GitHub\homework_15\bin\Debug\net6.0\homework_15.pdb
+C:\Users\pc\Documents\GitHub\homework_15\obj\Debug\net6.0\homework_15.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\homework_15\obj\Debug\net6.0\homework_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\homework_15\obj\Debug\net6.0\homework_15.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\homework_15\obj\Debug\net6.0\homework_15.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\homework_15\obj\Debug\net6.0\homework_15.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\homework_15\obj\Debug\net6.0\homework_15.dll
+C:\Users\pc\Documents\GitHub\homework_15\obj\Debug\net6.0\refint\homework_15.dll
+C:\Users\pc\Documents\GitHub\homework_15\obj\Debug\net6.0\homework_15.pdb
+C:\Users\pc\Documents\GitHub\homework_15\obj\Debug\net6.0\homework_15.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\homework_15\obj\Debug\net6.0\ref\homework_15.dll
